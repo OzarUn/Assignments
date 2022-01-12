@@ -20,7 +20,7 @@ class AnaPencere(QMainWindow):
         self.label = QLabel()
         self.label2 = QLabel()
         self.grid = QGridLayout()
-        self.setWindowTitle("OzarOmerUncu-UgurcanBagriyanik-Project")
+        self.setWindowTitle("Project")
 
         layout.addWidget(self.label)
         layout.addWidget(self.label2)
